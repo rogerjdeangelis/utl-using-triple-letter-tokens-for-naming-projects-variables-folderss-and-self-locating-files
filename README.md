@@ -1,14 +1,15 @@
 # utl-using-triple-letter-tokens-for-naming-projects-variables-folderss-and-self-locating-files
-Using triple letter tokens for naming projects variables folders and self locating files.
-
     Using triple letter tokens for naming projects variables folders and self locating files
+
+    Having strict TLA boundaries can be very powerful meta data
 
     Many exceptions gladly accepted, this is not a rigid guideline.
 
     We have Systolic and Diastolic blood pressure measurements taken sitting and laying down
     at many dates.
 
-    Think of  Kingdom, Phylum, Class and Order hierarchy
+    THINK OF  KINGDOM, PHYLUM, CLASS AND ORDER HIERARCHY
+    =====================================================
 
     For sitting systolic blood pressure, why not use
 
@@ -35,6 +36,10 @@ Using triple letter tokens for naming projects variables folders and self locati
           BpsSitDte
           BpsSitMthMax
 
+
+    FILENAME FOLDERS
+    ================
+
     I also use TLA hierachies with my filenames and folders.
 
     rtf reports for project dna are in
@@ -46,14 +51,16 @@ Using triple letter tokens for naming projects variables folders and self locati
     dna/rtf/dna_BasExpBsa.rtf
     dna/rtf/dna_BasExpStg.rtf
 
-    Self Locating files
 
-    If I send the expossure report by sex to Joe
+    SELF LOCATING FILES
+    ===================
+
+    If I send the exposure report by sex to Joe
 
        dna_BasExpSex.rtf
 
-    and a year later Joe sensd the name of the
-    file and asks me to resens
+    and a year later Joe sends the name of the
+    file and asks me to resend
 
     I can instantly locate the report using the tokens
     in the filename
@@ -66,6 +73,20 @@ Using triple letter tokens for naming projects variables folders and self locati
     the report is located at
 
     /dna/rtf/dna_BasExpAge.rtf
+
+
+    AFTER DATABASE LOCK
+    ===================
+
+    Renane the root to
+
+      dna_crisper_gene_splicing_trial
+
+      leave subfolders names alone
+
+
+
+
 
 
 
