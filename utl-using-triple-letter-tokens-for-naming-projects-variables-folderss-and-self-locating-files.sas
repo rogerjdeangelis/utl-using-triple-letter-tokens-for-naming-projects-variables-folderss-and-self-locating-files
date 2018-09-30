@@ -1,5 +1,7 @@
 Using triple letter tokens for naming projects variables folders and self locating files
 
+Having strict TLA boundaries can be very powerful meta data
+
 Many exceptions gladly accepted, this is not a rigid guideline.
 
 We have Systolic and Diastolic blood pressure measurements taken sitting and laying down
